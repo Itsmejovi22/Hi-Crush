@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proposal Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Will You Marry Me?</h1>
+        <button onclick="revealAnswer()">Click to reveal the answer</button>
+        <p id="answer"></p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
